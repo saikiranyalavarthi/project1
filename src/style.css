@@ -193,31 +193,8 @@ color:black;
   border-radius: 15px;
 }
 
-.home__thir h4 {
-  position: relative;
-  bottom: 130px;
-  left: 30%;
-  color: rgb(33, 144, 81);
 
 
-}
-
-.home__thir {
-  display: inline-block;
-  width: 300px;
-  height: 250px;
-  position: absolute;
-  top: 630px;
-  border-radius: 15px;
-  left: 1200px;
-  background: url( https://wallup.net/wp-content/uploads/2016/01/77907-space-planet.jpg);
-}
-
-.home__thir img {
-  width: 60%;
-  height: 250px;
-  border-radius: 15px;
-}
 
 .home__left {
   margin: 20px 50px 20px 0px;
